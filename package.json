@@ -33,10 +33,11 @@
         "yup": "^0.32.11"
     },
     "scripts": {
-        "start": "node server/server.js",
+        "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "heroku-postbuild": "react-scripts build"
     },
     "eslintConfig": {
         "extends": [
