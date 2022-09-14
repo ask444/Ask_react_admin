@@ -5,3 +5,7 @@
 npm install or yarn
 
 npm run start
+
+# App preview link :
+
+https://askreactadmin.herokuapp.com/
