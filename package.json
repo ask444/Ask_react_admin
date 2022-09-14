@@ -33,6 +33,7 @@
         "yup": "^0.32.11"
     },
     "scripts": {
+        "react":"react-scripts start",
         "start": "node server.js",
         "build": "GENERATE_SOURCEMAP=false react-scripts build",
         "test": "react-scripts test",
